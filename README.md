@@ -22,8 +22,8 @@ Please refer to the LICENSE in the repo.
 
 
 ## Resources
-These links will take you to my github and the application itself
-https://github.com/ivyreed/snarky-password-generator/settings/pages
+These links will take you to the application itself
+
 https://ivyreed.github.io/snarky-password-generator/
 
 This is a screenshot of the running application
